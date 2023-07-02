@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "Case ID": 1,
+      "Customer ID": 818591,
+      "Provider": 10001121,
+      "CREATED_ERROR_CODE": 101,
+      "STATUS": "Closed",
+      "TICKET_CREATION_DATE": "4/1/2019 17:25",
+      "LAST_MODIFIED_DATE": "4/2/2019 8:00",
+      "PRODUCT_NAME": "RED"
+    }
+  ]
+}
